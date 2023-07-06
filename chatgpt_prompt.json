@@ -1,0 +1,110 @@
+ [
+    {
+      "act": "leetcode answer",
+      "cmd": "le",
+      "enable": true,
+      "prompt": "teach me solve  {like this} in c++, provide two method, one is easier and human-readable code, another is the best efficiency code, and explain each method's time complexity and space complexity, code present in code block with english annotation, explain answer in english",
+      "tags": [
+        "user-sync"
+      ]
+    },
+    {
+      "act": "leetcode answer",
+      "cmd": "lz",
+      "enable": true,
+      "prompt": "teach me solve  {like this} in c++, provide two method, one is easier and human-readable code, another is the best efficiency code, and explain each method's time complexity and space complexity, code present in code block with zh-tw annotation, explain answer in zh-tw",
+      "tags": [
+        "user-sync"
+      ]
+    },
+    {
+      "act": "translate to zh-tw",
+      "cmd": "zh-tw",
+      "enable": true,
+      "prompt": "translate to zh-tw,如果有專有名詞、title、subtile，幫我翻譯並用括弧同時保有原文\n",
+      "tags": [
+        "user-sync"
+      ]
+    },
+    {
+      "act": "teach ",
+      "cmd": "teach ",
+      "enable": true,
+      "prompt": "Please teach me what is {like this}, and provide an example to help me understand. Can you break it down step-by-step, and provide your answer in zh-tw(traditional Chinese)?",
+      "tags": [
+        "user-sync"
+      ]
+    },
+    {
+      "act": "example",
+      "cmd": "example",
+      "enable": true,
+      "prompt": "make some example to help me understand the { }, answer in zh-tw",
+      "tags": [
+        "user-sync"
+      ]
+    },
+    {
+      "cmd": "explain_name-zh-tw",
+      "act": "You are a senior software engineer, explain the code to help me understand.",
+      "prompt": "Help me understand this piece of code, especially explain {like this} definition and how to use it in the code. Provide a detailed explanation for each line of code, including each function and parameter. The explanation should be as detailed as possible, clear enough for someone without programming background to fully understand. Answer in zh-tw.\n",
+      "enable": true,
+      "tags": []
+    },
+    {
+      "cmd": "explain-zh-tw",
+      "act": "You are a senior software engineer, explain the code to help me understand.",
+      "prompt": "Help me understand this piece of code and provide a detailed explanation for each line of code, including each function and parameter. The explanation should be as detailed as possible, clear enough for someone without programming background to fully understand. Answer in zh-tw.\n",
+      "enable": true,
+      "tags": []
+    },
+    {
+      "cmd": "write",
+      "act": "write",
+      "prompt": "Write an in-depth article about {like this}, which includes the chapters of Abstract, Background, Methodology, Results and Analysis, and Conclusion.",
+      "enable": true,
+      "tags": []
+    },
+    {
+      "cmd": "talk-without",
+      "act": "talk",
+      "prompt": "Please role-play a in-depth discussion between two people, amy and bob, discussing the topic, \"{like this}\", don't show who is speaking in each sentence head, only show me the content.",
+      "enable": true,
+      "tags": []
+    },
+    {
+      "cmd": "conversation",
+      "act": "conversation",
+      "prompt": "Please role-play a in-depth discussion between two people, amy and bob, discussing the topic, \"{like this}\".",
+      "enable": true,
+      "tags": []
+    },
+    {
+      "cmd": "tee",
+      "act": "teach",
+      "prompt": "Please explain to me the definition and operating principles of {like this}, and provide a step-by-step detailed explanation, along with a practical example to help me better understand, and provide your answer in english?",
+      "enable": true,
+      "tags": []
+    },
+    {
+      "cmd": "zzh",
+      "act": "zh-tw",
+      "prompt": "Please translate the following content into Traditional Chinese (zh-tw), and if there are proprietary terms, please translate them and keep the original text in parentheses.",
+      "enable": true,
+      "tags": []
+    },
+    {
+      "cmd": "ta",
+      "act": "You are a know-it-all, especially be good at computer science.",
+      "prompt": "Please explain to me the definition and operating principles of {like this} in as much detail as possible. Additionally, provide a step-by-step explanation with practical examples to help me better understand. In the practical example, please specify the library, tool, or project you are using, and provide your answer in zh-tw(traditional Chinese)?",
+      "enable": true,
+      "tags": []
+    },
+    {
+      "cmd": "explain-zh-tw",
+      "act": "explain",
+      "prompt": "Help me understand this piece of code and provide a detailed explanation for each line of code, including each function and parameter. The explanation should be as detailed as possible, clear enough for someone without programming background to fully understand. Answer in zh-tw.\n",
+      "enable": true,
+      "tags": []
+    }
+  ]
