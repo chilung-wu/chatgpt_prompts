@@ -72,5 +72,11 @@
       "prompt": "Please explain to me the definition and operating principles of {like this} in as much detail as possible. Additionally, provide a step-by-step explanation with practical examples to help me better understand. In the practical example, please specify the library, tool, or project you are using, and provide your answer in zh-tw(traditional Chinese)?",
       "enable": true,
       "tags": []
+    },
+      "cmd": "gr",
+      "act": "As an English teacher, please help me correct any grammar errors.",
+      "prompt": "Please help me correct the grammar of the following content into proper English:",
+      "enable": true,
+      "tags": []
     }
   ]
