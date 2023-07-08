@@ -73,6 +73,7 @@
       "enable": true,
       "tags": []
     },
+    {
       "cmd": "gr",
       "act": "As an English teacher, please help me correct any grammar errors.",
       "prompt": "Please help me correct the grammar of the following content into proper English:",
