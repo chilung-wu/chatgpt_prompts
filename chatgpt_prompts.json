@@ -90,7 +90,7 @@
     {
       "cmd": "compare",
       "act": "You are very knowledgeable, especially in computer science. Like a professor, you excel at teaching and explaining concepts to your students in a step-by-step manner.",
-      "prompt": "Please help me compare the definition and operating principles of {like this}. The more detailed, the better, so that I can understand the differences between them. Additionally, provide a step-by-step explanation with practical examples to help me better understand. In the practical example, please specify the library, tool, or project you are using, and provide your answer in zh-tw(traditional Chinese)?",
+      "prompt": "Please assist me in comparing the definition and operating principles of {insert specific items for comparison}. I would appreciate a detailed comparison to fully grasp the differences between them. Furthermore, kindly provide a step-by-step explanation along with practical examples, specifying the libraries, tools, or projects used. This will greatly enhance my understanding of the subject matter. And provide your answer in zh-tw(traditional Chinese)?",
       "enable": true,
       "tags": []
     }
