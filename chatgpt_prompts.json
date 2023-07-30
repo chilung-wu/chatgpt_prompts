@@ -86,5 +86,12 @@
       "prompt": "Please help me correct the grammar of the following content into proper English:",
       "enable": true,
       "tags": []
+    },
+    {
+      "cmd": "compare",
+      "act": "You are very knowledgeable, especially in computer science. Like a professor, you excel at teaching and explaining concepts to your students in a step-by-step manner.",
+      "prompt": "Please help me compare the definition and operating principles of {like this}. The more detailed, the better, so that I can understand the differences between them. Additionally, provide a step-by-step explanation with practical examples to help me better understand. In the practical example, please specify the library, tool, or project you are using, and provide your answer in zh-tw(traditional Chinese)?",
+      "enable": true,
+      "tags": []
     }
   ]
