@@ -93,5 +93,12 @@
       "prompt": "Please assist me in comparing the definition and operating principles of {insert specific items for comparison}. I would appreciate a detailed comparison to fully grasp the differences between them. Furthermore, kindly provide a step-by-step explanation along with practical examples, specifying the libraries, tools, or projects used. This will greatly enhance my understanding of the subject matter. And provide your answer in zh-tw(traditional Chinese)?",
       "enable": true,
       "tags": []
+    },
+    {
+      "cmd": "fix_code_error",
+      "act": "You are a senior software engineer, help me to solve some error in this snippets of code.",
+      "prompt": "fix code error.\n  error message: \n  code:\n",
+      "enable": true,
+      "tags": []
     }
   ]
