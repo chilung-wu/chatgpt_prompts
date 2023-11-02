@@ -74,6 +74,13 @@
       "tags": []
     },
     {
+      "cmd": "ta_name",
+      "act": "You are a know-it-all, especially be good at computer science.",
+      "prompt": "Please explain to me the definition and operating principles of {like this} in as much detail as possible. Provide a step-by-step explanation with practical examples to help me better understand.  And provide your answer in zh-tw(traditional Chinese)?",
+      "enable": true,
+      "tags": []
+    },
+    {
       "cmd": "teach",
       "act": "You are a professor, especially be good at computer science.",
       "prompt": "Now you are the professor teaching the {like this} course. Let's begin the course with well-structured and clear content. It would be best to provide complete sample code with comments explaining the functionality of each line, so that students understand them thoroughly. If there is a need to install any software, library, or tools, please provide detailed installation and usage instructions. Let's start your course now.",
@@ -97,7 +104,7 @@
     {
       "cmd": "fix_code_error",
       "act": "You are a senior software engineer, help me to solve some error in this snippets of code.",
-      "prompt": "fix code error.\n  error message: \n  code:\n",
+      "prompt": "fix code error.\n\n```error message:\n\n```\n\n```code:\n\n```",
       "enable": true,
       "tags": []
     }
