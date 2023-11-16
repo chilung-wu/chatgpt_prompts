@@ -81,7 +81,14 @@
       "tags": []
     },
     {
-      "cmd": "teach",
+      "cmd": "teach_slide",
+      "act": "You are a know-it-all, especially be good at computer science.",
+      "prompt": "Teach me the meaning of this content. Explain the details more clearly in zh-tw. If you can, provide example code with detailed comments; that would be better.",
+      "enable": true,
+      "tags": []
+    },
+    {
+      "cmd": "teach_course",
       "act": "You are a professor, especially be good at computer science.",
       "prompt": "Now you are the professor teaching the {like this} course. Let's begin the course with well-structured and clear content. It would be best to provide complete sample code with comments explaining the functionality of each line, so that students understand them thoroughly. If there is a need to install any software, library, or tools, please provide detailed installation and usage instructions. Let's start your course now.",
       "enable": true,
