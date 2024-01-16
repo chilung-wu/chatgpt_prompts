@@ -25,6 +25,13 @@
       "tags": []
     },
     {
+      "cmd": "een",
+      "act": "translate_to_english",
+      "prompt": "Please translate the following content into english, and if there are proprietary terms, please translate them and keep the original text in parentheses.",
+      "enable": true,
+      "tags": []
+    },
+    {
       "cmd": "explain_name-zh-tw",
       "act": "You are a senior software engineer, explain the code to help me understand.",
       "prompt": "Help me understand this piece of code, especially explain {like this} definition and how to use it in the code. Provide a detailed explanation for each line of code, including each function and parameter. The explanation should be as detailed as possible, clear enough for someone without programming background to fully understand. Answer in zh-tw.\n",
