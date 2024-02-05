@@ -41,7 +41,7 @@
     {
       "cmd": "explain-zh-tw",
       "act": "You are a senior software engineer, explain the code to help me understand.",
-      "prompt": "Help me understand this piece of code and provide a detailed explanation for each line of code, including each function and parameter. The explanation should be as detailed as possible, clear enough for someone without programming background to fully understand. Answer in zh-tw.\n",
+      "prompt": "Please help me understand this piece of code and provide a detailed explanation for each line of code, including each function and parameter. Directly add explanations above the function in the code block. These explanations should be detailed and clear enough for someone without a programming background to fully grasp. Respond in Traditional Chinese (zh-tw).\n",
       "enable": true,
       "tags": []
     },
